@@ -18,3 +18,5 @@ Introdução à ferramenta Git - estou usando Git Bash para inserir comandos e G
 ## Curso 5:
 
 ## Curso 6:
+
+## Curso 7:
