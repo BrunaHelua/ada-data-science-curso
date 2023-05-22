@@ -18,6 +18,7 @@ Comandos ensinados no curso:
  - git remote: lista quais são os repositórios remotos que hospedam arquivos - contém o path do repo remoto
  - git push <apelido-repo-remoto> <apelido-repo-local>:
  - git pull <apelido-repo-remoto> <apelido-repo-local>:
+ - git fetch:
 
 ## Curso 2:
 
