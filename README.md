@@ -100,7 +100,7 @@ Comandos ensinados no curso:
  - Aula 10: Permissionamento e Views
  - Aula 11: Índices (implementação de árvore binária)
  - Aula 12: Exercícios
-## Curso 7: Introdução a SQL
+## Curso 7: Introdução a SQL e PowerBI
  - Aula 1: Introdução ao SQL (instalação do Postgres)
  - Aula 2: Queries simples e boas práticas
  - Aula 3: Funções agregadas
