@@ -74,7 +74,40 @@ Comandos ensinados no curso:
  - Aula 14: Estrutura de dados - tipo dicionário (chave : valor)
 
 ## Curso 5: Estatística
+ - Aula 1: Introdução à estatística e amostragem
+ - Aula 2: Tipos de dados, tabelas e distribuição de frequência
+ - Aula 3: Visualização gráfica
+ - Aula 4: Medidas de posição e medidas de dispersão (variabilidade)
+ - Aula 5: Análise bidimensional
+ - Aula 6: Exercícios
+ - Aula 7: Regressão linear simples 
+ - Aula 8: Derivadas - introdução à probabilidade
+ - Aula 9: Probabilidade
+ - Aula 10: Análise combinatória
+ - Aula 11: Probabilidade total, parcial e Teorema de Bayes
+ - Aula 12: Exercícios
 
 ## Curso 6: Banco de Dados
-
+ - Aula 1: Introdução a banco de dados
+ - Aula 2: Tipos de dados e custo do armazenamento
+ - Aula 3: Modelagem de entidades
+ - Aula 4: Normalização de dados
+ - Aula 5: Análise bidimensional
+ - Aula 6: Exercícios
+ - Aula 7: Inserindo tabelas no banco 
+ - Aula 8: Derivadas - introdução à probabilidade
+ - Aula 9: Probabilidade
+ - Aula 10: Permissionamento e Views
+ - Aula 11: Índices (implementação de árvore binária)
+ - Aula 12: Exercícios
 ## Curso 7: Introdução a SQL
+ - Aula 1: Introdução ao SQL (instalação do Postgres)
+ - Aula 2: Queries simples e boas práticas
+ - Aula 3: Funções agregadas
+ - Aula 4: Join
+ - Aula 5: Queries complexas (subquery e criação de CTE)
+ - Aula 6: Índices
+ - Aula 7: Windows functions
+ - Aula 8: PowerBI - dashboards analíticos
+ - Aula 9: Filtros e métricas
+ - Aula 10: PowerBI Relatório Completo
